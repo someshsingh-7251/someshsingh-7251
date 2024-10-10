@@ -23,8 +23,7 @@ You'll find a variety of projects here on my GitHub, from web development protot
 
 # Let's Connect!
 
-- LinkedIn: https://www.linkedin.com/in/somesh-singh-2aa796229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
-
+- LinkedIn: https://www.linkedin.com/in/somesh-singh-2aa796229
 - Internshala Aspirant: Looking forward to being the face of Internshala in my college.
 
 - Email: somesh572000@gmail.com
