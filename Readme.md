@@ -4,7 +4,7 @@
 
 👋 Welcome to my GitHub profile! I'm **Somesh Singh**, a passionate developer and data science enthusiast who loves to explore the world of technology. This repository serves as an introduction to my work and projects. Here, you'll find repositories that cover a range of interests, including machine learning, data analysis, web development, and more.
 
-As a 3rd-year BTech Computer Science student with hands-on experience in both sales and technology, I bring a unique combination of technical knowledge and business acumen. Currently, I  worked as a Sales Executive at Supply Buggy and leading as the Sales Manager at Singh’s Arena, where I focus on delivering results-driven strategies to enhance customer engagement and streamline sales processes.
+As a 3rd-year BTech Computer Science student with hands-on **experience in both sales and technology**, I bring a unique combination of technical knowledge and business acumen. Currently, I  worked as a Sales Executive at Supply Buggy and leading as the Sales Manager at Singh’s Arena, where I focus on delivering results-driven strategies to enhance customer engagement and streamline sales processes.
 
 In addition to my sales expertise, I’ve completed internships at Cavendish Industries Limited (A unit of JK Tyre), specializing in SAP software, and at Oasis Infobyte, focusing on Web Development and Designing. These experiences have given me strong skills in SAP ERP systems, front-end development, and problem-solving, enabling me to approach challenges from both a technical and strategic perspective.
 
