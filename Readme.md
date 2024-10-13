@@ -1,8 +1,10 @@
 
+# *👋 Hi, I'm Somesh Singh!* 
+
+
 
 ![Profile views](https://komarev.com/ghpvc/?username=someshsingh-7251)
  
-# *👋 Hi, I'm Somesh Singh!* 
 
 👋 Welcome to my GitHub profile! I'm **Somesh Singh**, a passionate developer and data science enthusiast who loves to explore the world of technology. This repository serves as an introduction to my work and projects. Here, you'll find repositories that cover a range of interests, including machine learning, data analysis, web development, and more.
 
