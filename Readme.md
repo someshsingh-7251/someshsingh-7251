@@ -1,7 +1,5 @@
 
  # *👋 Hi, I'm Somesh Singh!* 
-[!Somesh Singh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fofficialsomeshchinkusingh%2Fp%2FC3fTtIfLfVr%2F&psig=AOvVaw1Evj9SGNwHEXF0M16UyStd&ust=1728920200079000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjq3u7Xi4kDFQAAAAAdAAAAABAE)
-
 
 👋 Welcome to my GitHub profile! I'm **Somesh Singh**, a passionate developer and data science enthusiast who loves to explore the world of technology. This repository serves as an introduction to my work and projects. Here, you'll find repositories that cover a range of interests, including machine learning, data analysis, web development, and more.
 
