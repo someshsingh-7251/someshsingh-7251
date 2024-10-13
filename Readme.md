@@ -1,5 +1,6 @@
 
- # *👋 Hi, I'm Somesh Singh!*
+ # *👋 Hi, I'm Somesh Singh!* 
+[!Somesh Singh](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instagram.com%2Fofficialsomeshchinkusingh%2Fp%2FC3fTtIfLfVr%2F&psig=AOvVaw1Evj9SGNwHEXF0M16UyStd&ust=1728920200079000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCJjq3u7Xi4kDFQAAAAAdAAAAABAE)
 
 
 👋 Welcome to my GitHub profile! I'm **Somesh Singh**, a passionate developer and data science enthusiast who loves to explore the world of technology. This repository serves as an introduction to my work and projects. Here, you'll find repositories that cover a range of interests, including machine learning, data analysis, web development, and more.
@@ -55,11 +56,6 @@ Here are some of the key projects that I have worked on:
 
 ![Somesh Singh's GitHub stats](https://github-readme-stats.vercel.app/api?username=someshsingh-7251&show_icons=true&theme=radical)
 
-## 📝 Blog Posts
-
-I also enjoy sharing knowledge through writing. Check out some of my blog posts on tech and programming:
-- [Understanding Logistic Regression](#)
-- [Getting Started with Machine Learning](#)
 
 ## 🤝 Let's Connect!
 
@@ -74,23 +70,3 @@ You can reach out to me on various platforms. Click the icons below to visit my 
 
 
 ---
-
-## ⚙️ How to Use This Repository
-
-This repository contains markdown files, project highlights, and links to various projects I've worked on. Feel free to browse through the code or visit the project repositories linked above.
-
-## 💡 Contributing
-
-If you'd like to contribute to any of my projects, you are more than welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`git checkout -b feature-branch`).
-3. Commit your changes (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request, and I will review it as soon as possible.
-
-## 📜 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
