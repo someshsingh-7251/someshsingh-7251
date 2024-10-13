@@ -1,6 +1,8 @@
 
  # *👋 Hi, I'm Somesh Singh!* 
 
+![Profile views](https://visitor-badge.glitch.me/badge?page_id=SomeshSingh.profile)
+
 👋 Welcome to my GitHub profile! I'm **Somesh Singh**, a passionate developer and data science enthusiast who loves to explore the world of technology. This repository serves as an introduction to my work and projects. Here, you'll find repositories that cover a range of interests, including machine learning, data analysis, web development, and more.
 
 As a 3rd-year BTech Computer Science student with hands-on **experience in both sales and technology**, I bring a unique combination of technical knowledge and business acumen. Currently, I  worked as a Sales Executive at Supply Buggy and leading as the Sales Manager at Singh’s Arena, where I focus on delivering results-driven strategies to enhance customer engagement and streamline sales processes.
