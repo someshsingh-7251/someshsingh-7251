@@ -14,6 +14,7 @@ In addition to my sales expertise, I’ve completed internships at Cavendish Ind
 
 My goal is to bridge the gap between business and technology, leveraging my sales experience and technical knowledge to drive growth and innovation in every role I take on. I’m always eager to learn, adapt, and take on new challenges.
 
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=someshsingh-7251&theme=dracula&row=1&column=6)
 
 ## 🚀 About Me
 
