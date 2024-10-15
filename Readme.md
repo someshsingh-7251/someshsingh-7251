@@ -1,5 +1,4 @@
-
-# *👋 Hi, I'm Somesh Singh!* 
+*👋 Hi, I'm Somesh Singh!* 
 
 
 
@@ -32,6 +31,7 @@ Here are some of the technologies and tools I work with:
 - **Web Development**: React, Node.js, Express, Bootstrap
 - **Version Control**: Git, GitHub
 - **Database Management**: MySQL, PostgreSQL, MongoDB
+- **AI Tools**: Completed a workshop on **ChatGPT and AI tools** by be10X, exploring the practical applications of AI in business and technology
 
 ## 📂 Featured Projects
 
